@@ -5,8 +5,6 @@ Team ID :PNTIBMNo65
 
 <bold>Team Size :</bold> 4
 
-Team Size : 4
-
 Team Leader : Ashwini S
 
 Team member 1 :Eswara pandi M

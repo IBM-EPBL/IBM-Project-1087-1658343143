@@ -9,6 +9,6 @@ Team Leader : Ashwini S
 
 Team member 1 :Eswara pandi M
 
-Team member 2 :Soumiyadeep Hari
+Team member 2 :Soumyadeep Hari
 
 Team member 3 :Shalma dominic
